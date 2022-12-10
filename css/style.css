@@ -1,5 +1,116 @@
+/* * {
+    margin: 0;
+} */
+
+/* Typography */
+.heading-skills,
+.heading-about-contact {
+    padding-top: 20px;
+    text-align: center;
+}
+
 /* Navigation */
 .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
+}
+
+/* Hero section */
+.jumbotron {
+    background-image: url(https://placehold.co/500x400);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(50vh - 25px);
+}
+
+/* Work container */
+.container {
+    padding: 50px;
+}
+
+.card-container {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+.card {
+    border-color: black;
+    margin: 0 auto;
+}
+
+.card-body {
+    align-content: center;
+}
+
+/* Skills container */
+.skills-container {
+    margin-top: 30px;
+    background-color: rgb(175, 172, 172);
+    height: 350px;
+}
+
+.skills-container p {
+    padding: 10px 50px;
+}
+
+.list-group-flush {
+    padding: 0 60px;
+    width: 40%;
+}
+
+.list-group-item {
+    background-color: rgb(175, 172, 172);
+}
+
+/* About/contact container */
+.about-contact-container {
+    margin-top: 30px;
+}
+
+.row-about-contact {
+    display: flex;
+    text-align: center;
+}
+
+.card-about,
+.card-contact {
+    margin-top: 30px;
+    padding: 50px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    height: 80%;
+}
+
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+    background-color: rgb(175, 172, 172);
+    height: 80px;
+    text-align: center;
+}
+
+.social a {
+    color: rgb(38, 38, 38);
+}
+
+.fa-brands {
+    font-size: 38px;
+    margin-top: 25px;
+    padding: 0px 15px;
+    cursor: pointer;
+}
+
+.fa-linkedin:hover {
+    color: #04009a;
+    text-shadow: 2px 2px 5px #4744ac;
+}
+
+.fa-github:hover {
+    color: black;
+    text-shadow: 2px 2px 5px rgb(59, 58, 58);
 }
