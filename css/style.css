@@ -9,18 +9,60 @@
     text-align: center;
 }
 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2,
+h3,
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* Navigation */
 .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
 }
 
+.navbar-brand {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.nav-item {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.nav-link {
+    color: #04009a;
+}
+
 /* Hero section */
 .jumbotron {
-    background-image: url(https://placehold.co/500x400);
+    background-image: url(/images/hero-01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     height: calc(50vh - 25px);
+    border-top: 1px dotted black;
+}
+
+/* .jumbotron p {
+    text-shadow: rgb(123, 33, 33);
+} */
+
+.btn {
+    border-color: black;
 }
 
 /* Work container */
@@ -55,6 +97,8 @@
 
 .skills-container p {
     padding: 10px 50px;
+    text-decoration: underline;
+    font-size: 18px;
 }
 
 .list-group-flush {
@@ -85,6 +129,14 @@
     height: 80%;
 }
 
+.card-body-contact a {
+    color: blue;
+}
+
+.card-body-contact a:hover {
+    text-decoration: none;
+    color: #04009a
+}
 
 /* Footer */
 .footer {
