@@ -38,13 +38,14 @@ p {
 
 }
 
-.nav-item {
+.nav-item a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
+    color: white !important;
 }
 
-.nav-link {
-    color: #04009a;
+.nav-item a:hover {
+    color: rgb(198, 197, 197) !important;
 }
 
 /* Hero section */
@@ -54,12 +55,7 @@ p {
     background-size: cover;
     background-position: center;
     height: calc(50vh - 25px);
-    border-top: 1px dotted black;
 }
-
-/* .jumbotron p {
-    text-shadow: rgb(123, 33, 33);
-} */
 
 .btn {
     border-color: black;
