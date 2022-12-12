@@ -50,7 +50,7 @@ p {
 
 /* Hero section */
 .jumbotron {
-    background-image: url(/images/hero-01.jpg);
+    background-image: url(../images/hero-01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
