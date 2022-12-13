@@ -12,35 +12,35 @@ I enjoyed creating this project and definely bootstrap reduce the time of the cr
 
 Portfolio Screenshots
 
-![Screenshot of the Portfolio](./assets/screenshots/portfolio1.jpg)
+![Screenshot of the Portfolio](/assets/bootstrap1.jpg)
 
-![Screenshot of the Portfolio](./assets/screenshots/portfolio2.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/portfolio2.jpg)
 
-![Screenshot of the Portfolio](./assets/screenshots/portfolio3.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/portfolio3.jpg)
 
 Bootstrap Screenshots
 
-![Screenshot of the Portfolio](./assets/screenshots/bootstrap1.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/bootstrap1.jpg)
 
-![Screenshot of the Portfolio](./assets/screenshots/bootstrap2.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/bootstrap2.jpg)
 
-![Screenshot of the Portfolio](./assets/screenshots/bootstrap3.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/bootstrap3.jpg)
 
-![Screenshot of the Portfolio](./assets/screenshots/bootstrap4.jpg)
+![Screenshot of the Portfolio](/assets/screenshots/bootstrap4.jpg)
 
 The following screenshots are the HTML and CSS coding.
 
-![Screenshot of HTML](./assets/screenshots/html-code-1.jpg)
+![Screenshot of HTML](/assets/screenshots/html-code-1.jpg)
 
-![Screenshot of HTML](./assets/screenshots/html-code-2.jpg)
+![Screenshot of HTML](/assets/screenshots/html-code-2.jpg)
 
-![Screenshot of HTML](./assets/screenshots/html-code-3.jpg)
+![Screenshot of HTML](/assets/screenshots/html-code-3.jpg)
 
-![Screenshot of CSS](./assets/screenshots/css-code-1.jpg)
+![Screenshot of CSS](/assets/screenshots/css-code-1.jpg)
 
-![Screenshot of CSS](./assets/screenshots/css-code-2.jpg)
+![Screenshot of CSS](/assets/screenshots/css-code-2.jpg)
 
-![Screenshot of CSS](./assets/screenshots/css-code-3.jpg)
+![Screenshot of CSS](/assets/screenshots/css-code-3.jpg)
 
 ## Installation
 
